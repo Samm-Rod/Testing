@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39a1c04a-6a0f-43e9-b3c3-dcaa4c29a7e2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/product/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/product/Products.java" afterDir="false" />
-    </list>
+    <list default="true" id="39a1c04a-6a0f-43e9-b3c3-dcaa4c29a7e2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +23,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging code03",
+    "git-widget-placeholder": "code03",
     "onboarding.tips.debug.path": "/home/tuxnet/Documents/Spring/Projects/Desafio Vaga dev jr API Rest/desafio-junior-backend-simplify/Testes/src/Main.java"
   }
 }]]></component>
