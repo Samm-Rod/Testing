@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Programs {
     public static void main(String[] args) {
+        Products prod = new Products();
         ArrayList<Products> p = new ArrayList<>();
         ArrayList<Client> c = new ArrayList<>();
 
@@ -12,7 +13,10 @@ public class Programs {
 
         c.add(new Client("Joao da Silva","Notebook ideapad i5"));
         c.add(new Client("Maria da Silva","TV LG"));
-        
+        prod.setPreco(2356.60);
+        prod.setPreco(2354.00);
+        System.out.println(prod.soma(prod.getPreco()));
+        // Não ligue pra essa logica ruim 
 
 
     }
