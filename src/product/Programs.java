@@ -13,7 +13,10 @@ public class Programs {
         c.add(new Client("Joao da Silva","Notebook ideapad i5"));
         c.add(new Client("Maria da Silva","TV LG"));
         
-
+        /*
+        *
+        * asdasdasd
+        * */
 
     }
 }
