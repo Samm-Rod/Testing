@@ -16,7 +16,15 @@ public class Programs {
         prod.setPreco(2356.60);
         prod.setPreco(2354.00);
         System.out.println(prod.soma(prod.getPreco()));
-        // Não ligue pra essa logica ruim 
+        // Não ligue pra essa logica ruim
+        /*
+        *
+        *
+        *
+        *
+        *
+        *
+        * */
 
 
     }
