@@ -14,6 +14,11 @@ public class Products {
 
     }
 
+    public double soma(double preco){
+        double somar = 0;
+        return somar += preco;
+    }
+
     public String getNome() {
         return nome;
     }
