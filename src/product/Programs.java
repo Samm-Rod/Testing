@@ -1,13 +1,14 @@
 package product;
 
+import java.util.ArrayList;
+
 public class Programs {
     public static void main(String[] args) {
-        Products p = new Products();
+        ArrayList<Products> p = new ArrayList<>();
 
-        p.setNome("Notebook ideapad i5");
-        p.setPreco(3500.65);
-        p.setNome("TV Samsung");
-        p.setPreco(2540.50);
+        p.add(new Products("Notebook ideapad i5", 3500.65));
+        p.add(new Products("TV LG", 2540.39));
+
 
 
     }
