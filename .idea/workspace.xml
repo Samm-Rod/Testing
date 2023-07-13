@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39a1c04a-6a0f-43e9-b3c3-dcaa4c29a7e2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/product/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/product/Programs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/product/Programs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/product/Client.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/product/Products.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2SVIix4NP9X4hb9wL5b6VfRhITA" />
